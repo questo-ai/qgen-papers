@@ -1,4 +1,4 @@
-# qgen-papers
+# Question Generation Papers
 ☀️A list of question generation papers (with code)
 
 |Publish Year|Title                                                                                                                                                           |Author                                                                 |Code                                                  |Tags                         |Note                                                               |
